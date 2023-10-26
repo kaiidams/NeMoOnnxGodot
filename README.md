@@ -1,7 +1,8 @@
 # NeMoOnnxGodot
 
-A sample application of using NeMoOnnxSharp with Godot.
-This supports VAD (voice activation detection), speech recognition and speech synthesis.
+A sample Godot project of using
+[NeMoOnnxSharp](https://github.com/kaiidams/NeMoOnnxSharp).
+This project supports VAD (voice activation detection), speech recognition and speech synthesis.
 
 ![screen shot](screenshots/NeMoOnnxGodot.png)
 
