@@ -3,6 +3,8 @@
 A sample Godot project of using
 [NeMoOnnxSharp](https://github.com/kaiidams/NeMoOnnxSharp).
 This project supports VAD (voice activation detection), speech recognition and speech synthesis.
+NeMoOnnxSharp is a inference library written in C# for [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) with
+[ONNX Runtime](https://github.com/microsoft/onnxruntime).
 
 ![screen shot](screenshots/NeMoOnnxGodot.png)
 
